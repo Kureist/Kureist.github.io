@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kureist.github.io/posts/hot_shot/</loc>
+    <loc>www.kureist.ltd/</loc>
     <lastmod>2022-12-18T16:01:28+08:00</lastmod>
   </url><url>
-    <loc>https://kureist.github.io/posts/</loc>
+    <loc>www.kureist.ltd/posts/hot_shot/</loc>
     <lastmod>2022-12-18T16:01:28+08:00</lastmod>
   </url><url>
-    <loc>https://kureist.github.io/</loc>
+    <loc>www.kureist.ltd/posts/</loc>
     <lastmod>2022-12-18T16:01:28+08:00</lastmod>
   </url><url>
-    <loc>https://kureist.github.io/categories/</loc>
+    <loc>www.kureist.ltd/categories/</loc>
   </url><url>
-    <loc>https://kureist.github.io/tags/</loc>
+    <loc>www.kureist.ltd/tags/</loc>
   </url>
 </urlset>
