@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Dreamland</title>
-    <link>www.kureist.ltd/categories/</link>
-    <description>Recent content in Categories on Dreamland</description>
+    <title>Categories on POV</title>
+    <link>https://kureist.github.io/categories/</link>
+    <description>Recent content in Categories on POV</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="www.kureist.ltd/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://kureist.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
