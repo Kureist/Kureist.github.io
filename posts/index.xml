@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Important</title>
+    <title>Posts on Dreamland</title>
     <link>https://kureist.github.io/posts/</link>
-    <description>Recent content in Posts on Important</description>
+    <description>Recent content in Posts on Dreamland</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Dec 2022 16:01:28 +0800</lastBuildDate><atom:link href="https://kureist.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
